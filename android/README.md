@@ -1,4 +1,4 @@
-# TensorFlow Lite Speech Recognizer Android Demo
+# Speech Recognizer Android Demo
 
 ### Overview
 
